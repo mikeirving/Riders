@@ -21,5 +21,12 @@
        "lastlocation":"Crazy Train",
        "favorite":true
     }
- ]
+ ],
+   "favorites":[{
+      "name":"Harry Walden",
+       "image":"https://profile.pmc.org/Images/pfpPhotos/pmc-badge_thumb.png",
+       "egiftID":"HW0008",
+       "lastlocation":"Crazy Train",
+       "favorite":true
+   }]
 }
