@@ -1,6 +1,5 @@
 {
    "riders" :[
-    [
     {
         "mainID": "13913-3",
         "egiftID": "TI0031",
@@ -81,8 +80,7 @@
         "lastLocation": "unknown",
         "favorite": false
     }
-]
- ],
+],
    "favorites":[{
       "name":"Harry Walden",
        "image":"https://profile.pmc.org/Images/pfpPhotos/pmc-badge_thumb.png",
