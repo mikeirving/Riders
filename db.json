@@ -87,5 +87,26 @@
        "egiftID":"HW0008",
        "lastlocation":"Crazy Train",
        "favorite":true
-   }]
+   },
+   {
+        "egiftID": "BS0018",
+        "name": "Buck Smith",
+        "image": "https://Profile.pmc.org/images/pfpphotos/BS0018_IMG_0275_57211_thumb.JPG",
+        "lastLocation": "unknown",
+        "favorite": true
+    },
+    {
+        "egiftID": "SG0056",
+        "name": "Susan Greene-Hellman",
+        "image": "https://Profile.pmc.org/images/pfpphotos/SG0056_IMG_4328_69367_thumb.jpeg",
+        "lastLocation": "unknown",
+        "favorite": true
+    },
+    {
+        "egiftID": "BS0012",
+        "name": "Billy Starr",
+        "image": "https://Profile.pmc.org/images/pfpphotos/BS0012_Billy-Starr_color---C-2006-Bill-Brettcopy_75818_thumb.jpg",
+        "lastLocation": "unknown",
+        "favorite": true
+    }]
 }
